@@ -1,9 +1,11 @@
 # Core Maintainers of this repository
 
-| Name                | Email                 | GitHub                                   |
-|---------------------|-----------------------|------------------------------------------|
-| Bartłomiej Płotka   | bartek@improbable.io  | [@bwplotka](https://github.com/bwplotka) |
-| Dominic Green       | dom@improbable.io     | [@domgreen](https://github.com/domgreen) |
+| Name                | Email                 | Slack       | GitHub                                                     |
+|---------------------|-----------------------|-------------|------------------------------------------------------------|
+| Bartłomiej Płotka   | bartek@improbable.io  | `@bwplotka` | [@bwplotka](https://github.com/bwplotka)                   |
+| Dominic Green       | dom@improbable.io     | `@domgreen` | [@domgreen](https://github.com/domgreen)                   |
+| Frederic Branczyk   | ?                     | `@brancz`   | [@brancz](https://github.com/brancz)                       | 
+| Ludwik Grodzki      | ludwik@improbable.io  | `@ludwik`   | [@improbable-ludwik](https://github.com/improbable-ludwik) |
 
 ## Storage plugins maintainers
 
